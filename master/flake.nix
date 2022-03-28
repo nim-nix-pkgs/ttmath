@@ -11,7 +11,6 @@
   inputs.src-ttmath-master.ref   = "refs/heads/master";
   inputs.src-ttmath-master.owner = "status-im";
   inputs.src-ttmath-master.repo  = "nim-ttmath";
-  inputs.src-ttmath-master.dir   = "";
   inputs.src-ttmath-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
