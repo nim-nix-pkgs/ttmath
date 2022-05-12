@@ -7,8 +7,38 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-ttmath",
   "refs": [
-    "fatal: unable to access 'https://github.com/status-im/nim-ttmath/': SSL connection timeout",
+    "refs/heads/master",
+    "refs/heads/sugar",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "ttmath",
+      "version": "0.5.0",
+      "author": "Status Research & Development GmbH",
+      "desc": "A Nim wrapper for ttmath: big numbers with fixed size",
+      "license": "Apache License 2.0",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
