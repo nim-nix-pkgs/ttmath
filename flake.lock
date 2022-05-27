@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652792122,
-        "narHash": "sha256-Ty286hTI5TIkOkYSbE+eoBwp9s2pZx1A4zdloUvceok=",
+        "lastModified": 1652797892,
+        "narHash": "sha256-/Lw8Ix2LxLRYINEasq9gHEWiy6WRB4MkwKMEC3tFz/U=",
         "owner": "nim-nix-pkgs",
         "repo": "ttmath",
-        "rev": "079773d7f96c5eb1b7a06abf1ef73f13495fb3ed",
+        "rev": "e7ddd2bd5712cb113f6b84c0ca6eadbcff73b430",
         "type": "github"
       },
       "original": {
